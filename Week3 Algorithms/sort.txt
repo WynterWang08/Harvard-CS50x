@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Bubble Sort uses the lowest lower bound running time (among the three) of omega(n).
+
+sort2 uses: Merge Sort
+
+How do you know?: Merge Sort uses almost the same running time for all the three conditions (random, sorted and reversed).
+
+sort3 uses: Selection Sort
+
+How do you know?: Selection Sort uses the highest lower bound running time (among the three) of omega(n^2).
